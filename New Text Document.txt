@@ -1,1 +1,0 @@
-v=spf1 +a +mx +a:server1.tizzycloud.com +ip4:13.232.164.78 +ip4:159.8.35.149 ~all
